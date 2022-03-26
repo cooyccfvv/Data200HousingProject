@@ -1,0 +1,62 @@
+Apartments
+Number of apartments in the building - 2 = Two, 3 = Three, 4 = Four, 5 = Five, 6 = Six, 0 = None
+Number
+
+Wall Material
+Exterior wall material - 1=Wood, 2=Masonry, 3=Wood&Masonry, 4=Stucco
+Number
+
+Roof Material no 
+Roof construction material. 1 = Shingle/Asphalt, 2 = Tar & Gravel, 3 = Slate, 4 = Shake, 5 = Tile, 6 = Other
+Number
+
+
+Basement
+Basement type - 1 = Full, 2 = Slab, 3 = Partial, 4 = Crawl
+Number
+
+
+Central Heating
+Central heating type - 1 = Warm air, 2 = Hot water steam, 3 = Electric, 4 = Other
+Number
+
+Design Plan
+Plan of Design - 1 = architect, 2 = stock plan
+Number
+
+Building Square Feet
+Building square feet, as measured from the exterior of the property
+Number
+
+Estimate (Land) 
+Board of Review final estimated market value of land from the prior tax year.
+Number
+
+
+Estimate (Building) 
+Board of Review final estimated market value of building from the prior tax year.
+Number
+
+O'Hare Noise
+Indicator for the property under O'Hare approach flight path, within 1/4 mile.
+Number
+
+
+Floodplain
+Indicator for properties on a floodplain, defined as a FEMA Special Flood Hazard Area
+Number
+
+
+Road Proximity ohe
+Indicates whether the property is within 300 ft of a major road.
+Number
+
+Age Decade 
+Age in decades
+Number
+
+Garage Indicator ohe
+Indicates presence of a garage of any size.
+Number
+
+
